@@ -8,9 +8,9 @@ import (
 
 func main() {
 	cmd := cobra.Command{
-		Use: "shuttle-extensions-template",
+		Use: "some-service",
 		RunE: func(cmd *cobra.Command, args []string) error {
-			log.Println("Hello, shuttle-extensions-template")
+			log.Println("Hello, some-service")
 
 			return nil
 		},

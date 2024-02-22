@@ -1,4 +1,4 @@
-module shuttle-extensions-template
+module some-service
 
 go 1.21.6
 
