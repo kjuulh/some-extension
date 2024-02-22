@@ -1,2 +1,2 @@
-# some-service
+# some-extension
 Contains a template for shuttle extensions

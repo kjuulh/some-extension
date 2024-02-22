@@ -1,8 +1,8 @@
-name: some-service
+name: some-extension
 description: Enhances your experience with shuttle.
 provider: 
   github-release:
     owner: kjuulh
-    repo: some-service
+    repo: some-extension
 registry:
   github: kjuulh/shuttle-extensions

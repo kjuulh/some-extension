@@ -1,4 +1,4 @@
-module some-service
+module some-extension
 
 go 1.21.6
 
